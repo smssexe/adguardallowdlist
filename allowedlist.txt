@@ -5,3 +5,4 @@
 ||appmetrica.yandex.com^
 ||panel.najva.com^
 ||mail.najva.com^
+||moz.com^
