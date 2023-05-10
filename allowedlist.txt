@@ -3,3 +3,5 @@
 ||mediaad.org^
 ||iliyaimmigration.com^
 ||appmetrica.yandex.com^
+||panel.najva.com^
+||mail.najva.com^
