@@ -6,3 +6,4 @@
 ||panel.najva.com^
 ||mail.najva.com^
 ||moz.com^
+||intrack.ir^
