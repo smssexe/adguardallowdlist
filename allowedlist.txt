@@ -8,3 +8,4 @@
 ||moz.com^
 ||intrack.ir^
 ||triboon.net^
+||simart.ir^
